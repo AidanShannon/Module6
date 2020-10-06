@@ -14,7 +14,7 @@ def multiply_string(name, number):
     :return: name printed as many times as number
     """
     x = name * number
-    pass
+    return x
 
 
 if __name__ == '__main__':
